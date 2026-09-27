@@ -11,4 +11,5 @@ class User:
 
     def print_full_name(self):
         print(f"{self.first_name} {self.last_name}")
-        
+
+# Submitted for Lesson 3 homework
